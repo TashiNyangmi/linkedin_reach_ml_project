@@ -61,7 +61,6 @@ The project directory structure is organized as follows:
 - `data/raw`: Contains the dataset file `independent_variables.csv` and `dependent_variables.csv`.
 - `data/processed`: Contains dataset files created after processing raw dataset files.
 - `notebooks/`: Includes Jupyter notebooks for EDA, data preprocessing, modeling, and other analyses.
-- `src/`: Contains utility scripts and Python source code.
 - `README.md`: The file you are currently reading.
 - `requirements.txt`: Lists project dependencies.
 
@@ -94,7 +93,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Contact Information
 
-For inquiries or feedback, please contact [Your Name] at [hseb.tashi@gmail.com].
+For inquiries or feedback, please contact [Tashi Tsering Gurung] at [hseb.tashi@gmail.com].
 
 ## References
 
